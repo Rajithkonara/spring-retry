@@ -22,6 +22,7 @@ public interface InventoryService {
     @Recover
     String handleInventoryBackendFailure(RuntimeException exception, String id, String additionalInfo);
 
+    // Method to test RetryTemplate
     void callToExternalService();
 
 }

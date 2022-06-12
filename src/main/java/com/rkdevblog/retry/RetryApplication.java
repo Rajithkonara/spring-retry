@@ -35,7 +35,6 @@ public class RetryApplication {
         backOffPolicy.setInitialInterval(2000);
         retryTemplate.setBackOffPolicy(backOffPolicy);
 
-
         return retryTemplate;
     }
 
