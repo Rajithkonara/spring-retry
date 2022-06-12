@@ -2,7 +2,7 @@
 
 This is a sample spring-boot project to demonstrate how to use spring retry.
 
-Blog post: 
+Blog post: https://www.rajith.me/2022/06/using-spring-retry.html
 
 ## Requirements
 
